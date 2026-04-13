@@ -9,7 +9,7 @@
 ### 2. [Кейсы: Бизнес- и Системный анализ](https://github.com/libelllule/Technical-Specification-BA-SA-Analyst)
 Включает BPMN-модель закупки ИТ-оборудования с проведением Gap-анализа требований, а также UML-диаграмму (Activity) для алгоритма публикации товара на маркетплейсе.
 
-### 3. [Система бронирования отелей](https://github.com/libelllule/BookingHotelSystem) — Система бронирования отелей
+### 3. [Система бронирования отелей](https://github.com/libelllule/BookingHotelSystem) 
 Разработка бэкенда (Java + PostgreSQL). Проект показывает навык проектирования реляционных баз данных и написания SQL-запросов для обработки конфликтов при пересечении дат бронирования.
 
 ### 4. [AuthSystem](https://github.com/libelllule/AuthSystem) — Демон аутентификации (C/Linux)
